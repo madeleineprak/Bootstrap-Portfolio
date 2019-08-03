@@ -36,3 +36,11 @@ body {
     height: 20vw;
     object-fit: cover;
 }
+
+@media only screen and (max-width:576px) {
+    .background {
+        width: 100%;
+        margin-top: 0px;
+        margin-bottom:0px;
+    }
+}
