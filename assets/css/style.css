@@ -36,6 +36,11 @@ body {
     object-fit: cover;
 }
 
+/* Need to fix */
+#about-footer {
+    position: fixed;
+}
+
 @media only screen and (max-width:576px) {
     .background {
         width: 100%;
